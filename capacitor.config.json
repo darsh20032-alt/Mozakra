@@ -1,0 +1,6 @@
+{
+  "appId": "com.mo.mozakraty",
+  "appName": "مذاكرتي",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
